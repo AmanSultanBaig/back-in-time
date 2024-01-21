@@ -1,6 +1,6 @@
 
-const moment = require("moment/moment");
-const validateInputs = require("./validators/lib.validator");
+const moment = require("moment");
+const validateInputs = require("./libs/validators/lib.validator");
 
 const backInTime = (currentDate, yearsToBack, dateFormat = "YYYY-MM-DD") => {
 
