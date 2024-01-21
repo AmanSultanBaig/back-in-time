@@ -1,4 +1,4 @@
-const date_formats = ["YYYY-MM-DD"];
+const { date_formats } = require("../utils/date.format");
 
 const validateInputs = (currentDate, yearsToBack, format) => {
     if (!currentDate) {

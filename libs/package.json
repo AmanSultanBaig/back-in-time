@@ -1,5 +1,5 @@
 {
-  "name": "libs",
+  "name": "back-in-time",
   "version": "1.0.0",
   "description": "years to travel and print past dates",
   "main": "index.js",
